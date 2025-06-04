@@ -6,6 +6,6 @@
 
 图一：在CSQA数据集上不同阈值对模型推理时间和Acc的影响
 
-![image](https://github.com/duang101/TSCR/blob/main/csqa.png)
+![image](https://anonymous.4open.science/r/TSCR-F004/csqa.png)
 
 图二：在ARC-C数据集上不同阈值对模型推理时间和Acc的影响
